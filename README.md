@@ -1,16 +1,9 @@
 # happybirthday
 
-A new Flutter project.
+A new Flutter app to wish happy birthday to a loved ones in a Software engineer way😜😉
 
-## Getting Started
+It has a simple login screen which has the static code for now--> (800900) ..
+Thinking..Authentication screen in such a simple app?
+Yes because lot of people have a habit of wishing a birthday with highly unsensored image😂🤣🤪.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
