@@ -1,4 +1,4 @@
-# happybirthday
+# 🎊🎈🎂 HAPPPYY BIRTHDAY 🍰🍾🎇
 
 A new Flutter app to wish happy birthday to a loved ones in a Software engineer way😜😉
 
